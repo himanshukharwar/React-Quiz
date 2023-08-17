@@ -10,7 +10,6 @@ import Progress from "./Progress";
 import FinishScreen from "./FinishScreen";
 import Footer from "./Footer";
 import Timer from "./Timer";
-import { queries } from "@testing-library/react";
 
 const SECS_PER_QUESTION = 10;
 const initialState = {
